@@ -156,7 +156,7 @@ const CSS = `
 const HTML = `<div class="wrap">
 <div class="box">
   <h1>🎒 شبیه‌ساز بصری کوله‌پشتی و الگوریتم‌های جستجو</h1>
-  <div class="row"><div class="lab">📝 داده‌ها را اینجا بنویس (هر خط یک کالا: «نام ارزش وزن»). پیش‌فرض همان جدول عکس است:</div></div>
+  <div class="row"><div class="lab">📝 داده‌ها را اینجا بنویس (هر خط یک کالا: «نام ارزش وزن»). :</div></div>
   <textarea id="ks_txt" spellcheck="false"></textarea>
   <div class="row">
     <label>⚖️ حداکثر وزن <input id="ks_cap" type="text" inputmode="decimal"></label>
